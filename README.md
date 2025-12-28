@@ -1,5 +1,3 @@
-# Hola, soy Rodrigo
-
 ## Mis Experimentos de Simulación
 
 ### 1. Fluido Cuántico (Ecuación Ginzburg-Landau)
